@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdateApp", "UpdateApp\UpdateApp.csproj", "{B4D96076-E975-42E9-8632-C4BBC4E2F719}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0221992C-FC6C-44FA-B34C-7C9BB67E5B04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BindingHelper", "BindingHelper\BindingHelper.csproj", "{D5ACEE7C-2DDC-4000-8A0C-415B78C2813A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4D96076-E975-42E9-8632-C4BBC4E2F719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4D96076-E975-42E9-8632-C4BBC4E2F719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4D96076-E975-42E9-8632-C4BBC4E2F719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4D96076-E975-42E9-8632-C4BBC4E2F719}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5ACEE7C-2DDC-4000-8A0C-415B78C2813A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5ACEE7C-2DDC-4000-8A0C-415B78C2813A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5ACEE7C-2DDC-4000-8A0C-415B78C2813A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5ACEE7C-2DDC-4000-8A0C-415B78C2813A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
